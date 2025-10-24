@@ -27,13 +27,13 @@ Supports **string keys** and **integer values**, with **O(1) average insertion a
 
 ## Usage
 
-### 1️⃣ Compile
+### 1️ Compile
 
 ```bash
 gcc main.c -o main
 ```
 
-### 2️⃣ Run
+### 2️ Run 
 
 ```bash
 ./main
